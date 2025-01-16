@@ -127,4 +127,4 @@ Your contributions are welcome! Here’s how you can help:
 
 ---  
 
-Enjoy the game and happy coding!  
+Enjoy the game!  
