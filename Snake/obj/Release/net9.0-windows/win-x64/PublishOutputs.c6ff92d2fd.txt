@@ -1,0 +1,2 @@
+D:\Coding\Projects\C# Projects\Snake\Snake\bin\Release\net9.0-windows\win-x64\publish\Snake.pdb
+D:\Coding\Projects\C# Projects\Snake\Snake\bin\Release\net9.0-windows\win-x64\publish\Snake.exe
