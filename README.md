@@ -1,7 +1,8 @@
 # 🐍 Modern Snake Game  
 
 A sleek, modern take on the classic Snake game, built with **C# 13** and **WPF**, featuring smooth animations, clean architecture, and responsive controls.  
-<iframe width="560" height="315" src="https://youtube.com/shorts/cD0NJdQztyc?feature=share" frameborder="0" allowfullscreen></iframe>
+[![Watch the video](https://youtube.com/shorts/cD0NJdQztyc?feature=share)
+
 
 ---  
 
